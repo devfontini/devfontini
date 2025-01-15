@@ -1,14 +1,16 @@
 ### Olá! Eu sou o Vittor Fontini 👋
 
+**`Desenvolvedor FullStack`**
+
+Me chamo Vittor Fontini , tenho 16 anos e sou natural do Paraná. Concluindo o Ensino Médio. Sou apaixonado por inovação, tecnologia e programação.
+
+
 ![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white) ()
 ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ()
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ()
 ![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) ()
 
-![Vittor Fontini GitHub stats](https://github-readme-stats.vercel.app/api?username=devfontini&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devfontini)](https://github.com/anuraghazra/github-readme-stats)
-
-## Tecnologias que eu uso como programador
+### 🤖 Linguagens e Tecnologias
 
 <dive style="display: inline_block"><br/>
 <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -31,7 +33,11 @@
 <img aling="center" alt="Typerscript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 <dive><br/>
 
-Apaixonado por inovação, tecnologia e programação.
+### 📊 Estatísticas
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devfontini&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devfontini)](https://github.com/anuraghazra/github-readme-stats)
+  
 
 ### Últimos projetos:
 
