@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ### Olá! Eu sou o Vittor Fontini 👋
 
 ![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white) ()
