@@ -2,10 +2,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0000FF&center=true&vCenter=true&random=false&width=700&lines=%E2%8A%B9+Bem-vindo+ao+meu+perfil!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9;👋+Olá!+Sinta-se+à+vontade+para+explorar+meus+projetos!+🚀" alt="Typing SVG">
    <br><br>
 
+#
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Vittor Fontini , tenho 16 anos e sou natural do Paraná. Concluindo o Ensino Médio. Sou apaixonado por inovação, tecnologia e programação.
+<p align="center">Me chamo Vittor Fontini , tenho 16 anos e sou natural do Paraná. Concluindo o Ensino Médio. Sou apaixonado por inovação, tecnologia e programação.
 
 #
 
@@ -17,6 +18,7 @@ Me chamo Vittor Fontini , tenho 16 anos e sou natural do Paraná. Concluindo o E
 
 [![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://devfontini.blogspot.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devfontini/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:gabrielfontini0@gmail.com)
 
 
 ### 🤖 Linguagens e Tecnologias
