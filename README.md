@@ -7,6 +7,11 @@
 
 Me chamo Vittor Fontini , tenho 16 anos e sou natural do Paraná. Concluindo o Ensino Médio. Sou apaixonado por inovação, tecnologia e programação.
 
+#
+
+![study](https://github.com/user-attachments/assets/b09e4995-48eb-4839-a586-a4cf8c7e1e1e)
+
+<h3 align="left">Connect with me!</h3>
 
 [![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://devfontini.blogspot.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devfontini/)
