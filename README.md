@@ -1,4 +1,7 @@
-### Olá! Eu sou o Vittor Fontini 👋
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0000FF&center=true&vCenter=true&random=false&width=700&lines=%E2%8A%B9+Bem-vindo+ao+meu+perfil!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9;👋+Olá!+Sinta-se+à+vontade+para+explorar+meus+projetos!+🚀" alt="Typing SVG">
+   <br><br>
+
 
 **`Desenvolvedor FullStack`**
 
