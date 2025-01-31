@@ -11,6 +11,8 @@ Me chamo Vittor Fontini , tenho 16 anos e sou natural do Paraná. Concluindo o E
 
 ![study](https://github.com/user-attachments/assets/b09e4995-48eb-4839-a586-a4cf8c7e1e1e)
 
+#
+
 <h3 align="left">Connect with me!</h3>
 
 [![Blog](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://devfontini.blogspot.com/)
